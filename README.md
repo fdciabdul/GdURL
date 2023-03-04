@@ -14,7 +14,7 @@ npm install gdurl
 
 # Usage 
 ```javascript
-const googleDrive = require("./src/gDrive");
+const googleDrive = require("gdurl");
 
 async function test() {
   const docId = "drive-id";
