@@ -13,7 +13,7 @@ npm install gdurl
 ```
 
 # Usage 
-
+```javascript
 const googleDrive = require("./src/gDrive");
 
 async function test() {
@@ -23,7 +23,7 @@ async function test() {
 }
 
 test();
-
+```
 
 # FAQ
 

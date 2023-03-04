@@ -3,7 +3,7 @@
     "axios": "^1.3.4"
   },
   "name": "gdurl",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Google drive direct link generator",
   "main": "index.js",
   "devDependencies": {},
